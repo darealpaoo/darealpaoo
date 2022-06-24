@@ -29,6 +29,4 @@ Sublime Text
 
 ```
 
-<img align="left" src="https://github-readme-stats-git-master.j2teamnnl.vercel.app/api?username=darealpaoo&show_icons=true&hide_border=true" />
-
 [Messenger]: https://m.me/aka.nejkoredusen
