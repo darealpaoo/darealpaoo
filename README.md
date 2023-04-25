@@ -24,7 +24,7 @@
 JavaScript, Python, PHP, C#
 
 🔥 Editors: 
-Sublime Text, Notepad++, Visual Studio Code, Microsoft Visual Studio
+Sublime Text, Visual Studio Code, Microsoft Visual Studio, Notepad++
 
 ```
 
