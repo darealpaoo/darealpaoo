@@ -21,11 +21,10 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript 
-PHP
+JavaScript, Python, PHP, C#
 
 🔥 Editors: 
-Sublime Text
+Sublime Text, Notepad++, Visual Studio Code, Microsoft Visual Studio
 
 ```
 
